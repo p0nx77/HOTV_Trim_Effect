@@ -1,2 +1,2 @@
-# HOTV_Trim_Effect
+# Hero Of The Village Trim Effect datapack
 Hero of the village trim effect datapack
